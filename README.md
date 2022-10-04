@@ -4,4 +4,4 @@ I also learned this event called 'change', I didn't know it existed so my knowle
 
 <b>note: I used a HTML and CSS template... I only focused on the JavaScript code<b>
 
-watch live: https://app.netlify.com/sites/multiple-fields-search-rb/settings/general
+watch live: https://multiple-fields-search-rb.netlify.app/
