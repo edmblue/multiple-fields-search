@@ -1,11 +1,3 @@
-//mostrar todos los autos al cargar
-
-// el .resultado p ya tiene estilos
-
-//solo comprar carros de 2020 hasta 2010, 2020 debe mostrase primerp
-
-// los options tiene value
-
 //Variables
 
 const resultado = document.querySelector('#resultado');
